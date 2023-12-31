@@ -14,13 +14,7 @@ Balance Inquiry: Check the balance of any account.
 
 Transaction History: View the transaction history for each account.
 
-Security Features:
-
-  Login/Logout: Secure user authentication to log in and out of the system.
-  
-  Password Encryption: Passwords are encrypted to enhance security.
-  
-  Permissions: User permissions are Applied.
+Security Features: Login/Logout, Password Encryption, and User Permissions are Applied.
   
 ## Technologies Used
 
