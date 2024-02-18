@@ -27,20 +27,18 @@ This console application is a simple Bank System implemented in C++ as part of a
 
 ## Usage
 
-1. **Run the Main Program:**
-    - This is a console application, and the user can run the main executable to access the Bank System.
+To use the program, follow these steps:
 
-2. **Credentials:**
-    - For all access, use the following credentials:
-        - Username: User2
-        - Password: 1234
+1. Run the main application (since it's a console app).
+2. Use the following credentials for access:
+   - Username: User2
+   - Password: 1234
 
-    - For limited access, use the following credentials:
-        - Username: User1
-        - Password: 1234
+   **Note:** For limited access, use the following credentials:
+   - Username: User1
+   - Password: 1234
 
-3. **Screens and Menus:**
-    - After successful login, navigate through the different screens and menus using the on-screen instructions.
+3. After successful login, navigate through the different screens and menus using the on-screen instructions.
 
 ## Screens
 
@@ -110,7 +108,7 @@ Choose what you want to do. [1 to 6]?
 ```
 ______________________________________
             Manage Users Screen
- ______________________________________
+______________________________________
 Current User: User2
 Date: 17/2/2024
 ______________________________________
