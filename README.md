@@ -22,8 +22,25 @@ This console application is a simple Bank System implemented in C++ as part of a
 - Login/Logout, Password Encryption, and User Permissions are applied.
 
 ## Technologies Used
-Language: C++
-Data Storage: Files 
+- **Data Storage:** Files
+- **Language:** C++
+
+## Usage
+
+1. **Run the Main Program:**
+    - This is a console application, and the user can run the main executable to access the Bank System.
+
+2. **Credentials:**
+    - For all access, use the following credentials:
+        - Username: User2
+        - Password: 1234
+
+    - For limited access, use the following credentials:
+        - Username: User1
+        - Password: 1234
+
+3. **Screens and Menus:**
+    - After successful login, navigate through the different screens and menus using the on-screen instructions.
 
 ## Screens
 
@@ -32,7 +49,7 @@ Data Storage: Files
 ```
 ______________________________________
                 Login Screen
- ______________________________________
+______________________________________
 Current User:
 Date: 17/2/2024
 ______________________________________
@@ -45,13 +62,13 @@ Enter Username?
 ```
 ______________________________________
                 Main Screen
- ______________________________________
+______________________________________
 Current User: User1
 Date: 17/2/2024
 ______________________________________
-===========================================
+=======================================
                 Main Menu
-===========================================
+=======================================
 [1] Show Client List.
 [2] Add New Client.
 [3] Delete Client.
@@ -62,8 +79,8 @@ ______________________________________
 [8] Login Register.
 [9] Currency Exchange.
 [10] Logout.
-===========================================
-Choose what do you want to do? [1 to 10]?
+=======================================
+Choose what you want to do. [1 to 10]?
 ```
 
 ### Transactions Screen
@@ -71,21 +88,21 @@ Choose what do you want to do? [1 to 10]?
 ```
 ______________________________________
             Transactions Screen
- ______________________________________
+______________________________________
 Current User: User2
 Date: 17/2/2024
 ______________________________________
-===========================================
+=======================================
         Transactions Menu
-===========================================
+=======================================
 [1] Deposit.
 [2] Withdraw.
 [3] Total Balances.
 [4] Transfer.
 [5] Transfer Log.
 [6] Main Menu.
-===========================================
-Choose what do you want to do? [1 to 6]?
+=======================================
+Choose what you want to do. [1 to 6]?
 ```
 
 ### Manage Users Screen
@@ -97,17 +114,17 @@ ______________________________________
 Current User: User2
 Date: 17/2/2024
 ______________________________________
-===========================================
+=======================================
         Manage Users Menu
-===========================================
+=======================================
 [1] List Users.
 [2] Add New User.
 [3] Delete User.
 [4] Update User.
 [5] Find User.
 [6] Main Menu.
-===========================================
-Choose what do you want to do? [1 to 6]?
+=======================================
+Choose what you want to do. [1 to 6]?
 ```
 
 ### Currency Exchange Main Screen
@@ -115,19 +132,18 @@ Choose what do you want to do? [1 to 6]?
 ```
 ______________________________________
         Currency Exchange Main Screen
- ______________________________________
+______________________________________
 Current User: User2
 Date: 17/2/2024
 ______________________________________
-===========================================
+======================================
     Currency Exchange Menu
-===========================================
+======================================
 [1] List Currencies.
 [2] Find Currency.
 [3] Update Rate.
 [4] Currency Calculator.
 [5] Main Menu.
-===========================================
-Choose what do you want to do? [1 to 5]?
+======================================
+Choose what you want to do. [1 to 5]?
 ```
-
